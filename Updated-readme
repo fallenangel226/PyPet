@@ -1,0 +1,6 @@
+The code has been updated to reflect some of the changes i wanted to make. I added in the ability to have unique 
+gameplay menus for each type of pet and i compacted some of the more repetitive code into functions for easier readablility.
+
+  Functions im interested in working on now include having pets current pets interact with previously saved pets, probably 
+only one pet pet instance, something like a one on one play date. I am also working on integrating turtle graphics into the program
+to have a little animated picture on screen apposed to the txt based pic that i currently have coded.
