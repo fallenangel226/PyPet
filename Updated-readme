@@ -4,3 +4,8 @@ gameplay menus for each type of pet and i compacted some of the more repetitive 
   Functions im interested in working on now include having pets current pets interact with previously saved pets, probably 
 only one pet pet instance, something like a one on one play date. I am also working on integrating turtle graphics into the program
 to have a little animated picture on screen apposed to the txt based pic that i currently have coded.
+
+  The base classes are still intact with the addition of 3 new subclasses of Pet. Pet now currently holds most of the code, 
+  only because it seemed logical to do so while i was recoding the project. Setup is still the opening class, with start_menu 
+  combined with begin to build the main menu. the begin function from Setup is no more. the play function calls out to the Pet 
+  class and its subclasses to run PyPet options, i.e what you can do with your pet. 
